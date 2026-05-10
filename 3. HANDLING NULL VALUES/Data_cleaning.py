@@ -1,6 +1,6 @@
 import pandas as pd 
 
-df=pd.read_csv(r'C:\Users\Riya\OneDrive\Documents\PANDAS basic\movies.csv')
+df=pd.read_csv(r"C:\Users\Riya\OneDrive\Documents\PANDAS basic\3. HANDLING NULL VALUES\MOVIE.csv")
 
 
 # finding missing values 
